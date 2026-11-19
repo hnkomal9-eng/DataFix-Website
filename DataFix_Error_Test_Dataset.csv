@@ -1,0 +1,13 @@
+﻿Customer_ID,Name,Email,Age,City,Order_Date,Amount,Status,Phone
+C001,Anita Rao,anita.rao@example.com,28,Bengaluru,2026-10-01,1250.5,Completed,9876543210
+C002,  Ravi Kumar  ,ravi.kumarexample.com,34,Bangalore,01/10/2026,890.0,completed,9876501234
+C003,Meena Shah,meena.shah@example.com,,Mysuru,2026-10-03,,Pending,9988776655
+C004,Arjun Nair,arjun.nair@example.com,-5,Mysore,03-10-2026,450.75,PENDING,9988776655
+C005,Sara Khan,sara.khan@example.com,150,Chennai,2026/10/04,-250.0,Cancelled,9123456789
+C006,Dev Patel,dev.patel@example.com,unknown,Bengaluru ,not-a-date,five hundred,Complete,123
+C007,Priya Das,,22,Hyderabad,2026-10-06,720.0,Completed,9876500000
+C008,Kiran Joshi,kiran.joshi@example.com,31,Delhi,2026-10-07,3100.0,Pending,9876511111
+C001,Anita Rao,anita.rao@example.com,28,Bengaluru,2026-10-01,1250.5,Completed,9876543210
+C010,Nisha Iyer,nisha.iyer@example.com,27,Mumbai,2026-10-09,9999999.0,completed ,9876522222
+C011,Omar Ali,omar.ali@example.com,45,Pune,09/10/26,1800.0,Shipped,9876533333
+C012,Tara Sen,tara.sen@example.com,19,Kolkata,2026-10-11,0,Returned,

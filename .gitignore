@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.datafix_secret
+*.log
+venv/
+datafix_users.db
+.env
